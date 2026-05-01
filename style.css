@@ -536,3 +536,12 @@ footer p:last-child {
 .github-big-btn i {
   font-size: 28px;
 }
+
+#skills {
+  background: linear-gradient(180deg, #f5f3ff 0%, #ffffff 100%);
+  padding: 80px 20px;
+}
+
+#skills h2 {
+  margin-bottom: 40px;
+}
