@@ -365,8 +365,8 @@ nav a:hover::after {
 }
 
 .contact-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 15px 45px rgba(99, 102, 241, 0.12);
+  transform: none;  /* شيلت الحركة */
+  box-shadow: 0 10px 40px rgba(0,0,0,0.08);  /* نفس الظل العادي */
 }
 
 .contact-card i {
